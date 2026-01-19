@@ -1,0 +1,24 @@
+{
+    "DESIGN_NAME": "forward_converter",
+    "VERILOG_FILES": ["dir::src/forward_converter.sv"],
+    "PDK": "sky130A",
+
+    "SYNTH_PARAMETERS": ["N=4"],
+    "SYNTH_STRATEGY": "DELAY 0",
+    "MAX_FANOUT_CONSTRAINT": 10,
+
+    "CLOCK_PERIOD": 10.0,
+    "CLOCK_PORT": null,
+    "CLOCK_NET": null,
+
+    "FP_SIZING": "relative",
+    "FP_CORE_UTIL": 40,
+    "PL_TARGET_DENSITY_PCT": 45,
+
+    "RUN_POST_CTS_RESIZER_TIMING": true,
+    "RUN_STP": true,
+    "RUN_IRDROP_REPORT": true,
+    "RUN_MAGIC_DRC": true,
+    "RUN_KLAYOUT_DRC": true,
+    "RUN_LVS": true
+}
