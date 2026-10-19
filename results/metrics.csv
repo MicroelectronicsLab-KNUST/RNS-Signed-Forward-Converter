@@ -1,0 +1,8 @@
+N,die_area_um2,cell_area_um2,cells,setup_ws_worst_ns,ws_worst_corner,delay_nom_tt_ns,delay_worst_ns,power_max_mW,power_max_corner,power_nom_tt_mW,matches_table3
+4,7287.51,2026.94,298,6.52,max_ss_100C_1v60,2.6,5.23,0.115,max_ff_n40C_1v95,0.101,True
+5,9181.51,2696.34,396,5.16,max_ss_100C_1v60,3.33,6.59,0.158,max_ff_n40C_1v95,0.139,True
+6,10447.8,3030.41,456,4.61,max_ss_100C_1v60,3.63,7.14,0.197,max_ff_n40C_1v95,0.172,True
+7,11980.1,3804.9,537,4.47,max_ss_100C_1v60,3.68,7.28,0.26,max_ff_n40C_1v95,0.228,True
+8,13939,4365.44,631,3.71,max_ss_100C_1v60,4.08,8.04,0.3,max_ff_n40C_1v95,0.262,True
+9,15295.2,4693.25,709,3.46,max_ss_100C_1v60,4.09,8.29,0.319,max_ff_n40C_1v95,0.279,True
+10,16127,5221.26,752,2.28,max_ss_100C_1v60,4.83,9.47,0.363,max_ff_n40C_1v95,0.319,True
