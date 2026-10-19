@@ -1,0 +1,8 @@
+# OpenLane outputs
+flow/runs/
+flow/config_N*.json
+# Verification artefacts (regenerate with verif/gen_vectors.py and verif/run.sh)
+verif/vectors/
+verif/build/
+verif/build_n*.log
+__pycache__/

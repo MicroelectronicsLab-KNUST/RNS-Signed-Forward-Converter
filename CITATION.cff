@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this design, please cite it as below."
+title: "Signed Bit-Slicing Forward Converter for RNS {2^n-1, 2^n, 2^n+1}"
+type: software
+authors:
+  - family-names: Boateng
+    given-names: Kwame Osei
+    affiliation: "Kwame Nkrumah University of Science and Technology"
+  - family-names: Krapah
+    given-names: Bless Elikem
+    affiliation: "Kwame Nkrumah University of Science and Technology"
+  - family-names: Sarfoh
+    given-names: Jesse Osei
+    affiliation: "Kwame Nkrumah University of Science and Technology"
+repository-code: "https://github.com/MicroelectronicsLab-KNUST/RNS-Signed-Forward-Converter"
+keywords:
+  - residue number system
+  - forward converter
+  - signed integers
+  - sky130
+  - openlane
+license: Apache-2.0
